@@ -1,4 +1,6 @@
 # Use the file name mbox-short.txt as the file name
+if(true):
+    print("Welcome")
 count=0
 value=0
 fname = input("Enter file name: ")
